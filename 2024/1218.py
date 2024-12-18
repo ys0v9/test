@@ -54,8 +54,8 @@
 # print(item)
 
 # book = {'수학': 5, '영어': 10, '파이썬': 3}
-# i,j={'수힉',5}
+# i,j={'수학',5}
 
-book = {'수학': 5, '영어': 10, '파이썬': 3}
-for k,v in book.items():
-    print(k,v)
+# book = {'수학': 5, '영어': 10, '파이썬': 3}
+# for k,v in book.items():
+#      print(k,v)
